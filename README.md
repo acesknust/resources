@@ -7,6 +7,12 @@ A curated list of resources for students in the department
 
 ## <a name="A"> </a>A
 ## Artificial Intelligence
-- https://www.kaggle.com
-- https://datasetsearch.research.google.com
-- https://registry.opendata.aws
+- [Kaggle](https://www.kaggle.com)
+- [Google DataSet](https://datasetsearch.research.google.com)
+- [AWS OpenData](https://registry.opendata.aws)
+
+
+## <a name="J"> </a>J
+## Java
+- [Learn Java - Free Interactive Java Tutorial](https://www.learnjavaonline.org/)
+- [10 Simple Java Projects for Beginners](https://javahungry.blogspot.com/2019/12/java-projects-for-beginners.html)
