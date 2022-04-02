@@ -12,6 +12,10 @@ A curated list of resources for students in the department
 - [AWS OpenData](https://registry.opendata.aws)
 
 
+## <a name="G"> </a>G
+## GitHub
+- [GitHub Learning Lab](https://lab.github.com)
+
 ## <a name="J"> </a>J
 ## Java
 - [Learn Java - Free Interactive Java Tutorial](https://www.learnjavaonline.org/)
