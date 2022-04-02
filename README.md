@@ -11,6 +11,9 @@ A curated list of resources for students in the department
 - [Google DataSet](https://datasetsearch.research.google.com)
 - [AWS OpenData](https://registry.opendata.aws)
 
+## <a name="D"> </a>D
+## Data Science
+- [Data Science For Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 
 ## <a name="G"> </a>G
 ## GitHub
@@ -20,3 +23,8 @@ A curated list of resources for students in the department
 ## Java
 - [Learn Java - Free Interactive Java Tutorial](https://www.learnjavaonline.org/)
 - [10 Simple Java Projects for Beginners](https://javahungry.blogspot.com/2019/12/java-projects-for-beginners.html)
+
+
+## <a name="M"> </a>M
+## Machine Learning
+- [Machine Learning For Beginners](https://github.com/microsoft/ML-For-Beginners)
