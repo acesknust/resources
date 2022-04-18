@@ -28,3 +28,4 @@ A curated list of resources for students in the department for learning extra cu
 ## <a name="M"> </a>M
 ## Machine Learning
 - [Machine Learning For Beginners](https://github.com/microsoft/ML-For-Beginners)
+- [Big Data and Machine Learning](https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/)
