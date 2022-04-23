@@ -18,6 +18,7 @@ A curated list of resources for students in the department for learning extra cu
 ## <a name="G"> </a>G
 ## GitHub
 - [GitHub Learning Lab](https://lab.github.com)
+- [GitHub QuickStart](https://docs.github.com/en/get-started/quickstart)
 
 ## <a name="J"> </a>J
 ## Java
