@@ -9,7 +9,15 @@ A curated list of resources for students in the department for learning extra cu
 ## Artificial Intelligence
 - [Kaggle](https://www.kaggle.com)
 - [Google DataSet](https://datasetsearch.research.google.com)
-- [AWS OpenData](https://registry.opendata.aws)
+- [AWS OpenData](https://registry.opendata.aws)   
+
+
+## Student Ambassador Roles
+- [Notion](https://www.notion.so/Notion-Campus-Leaders-Program-5817b00cbaa244bca9e0e498804cbab4)
+- [Google](https://developers.google.com/community/gdsc/leads)
+- [Microsoft](https://studentambassadors.microsoft.com)    
+- [Github](https://education.github.com/experts)
+
 
 ## <a name="D"> </a>D
 ## Data Science
