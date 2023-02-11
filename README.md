@@ -12,12 +12,6 @@ A curated list of resources for students in the department for learning extra cu
 - [AWS OpenData](https://registry.opendata.aws)   
 
 
-## Student Ambassador Roles
-- [Notion](https://www.notion.so/Notion-Campus-Leaders-Program-5817b00cbaa244bca9e0e498804cbab4)
-- [Google](https://developers.google.com/community/gdsc/leads)
-- [Microsoft](https://studentambassadors.microsoft.com)    
-- [Github](https://education.github.com/experts)
-
 
 ## <a name="D"> </a>D
 ## Data Science
@@ -38,3 +32,11 @@ A curated list of resources for students in the department for learning extra cu
 ## Machine Learning
 - [Machine Learning For Beginners](https://github.com/microsoft/ML-For-Beginners)
 - [Big Data and Machine Learning](https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/)
+
+## <a name="S"> </a>S  
+## Student Ambassador Roles
+- [Notion](https://www.notion.so/Notion-Campus-Leaders-Program-5817b00cbaa244bca9e0e498804cbab4)
+- [Google](https://developers.google.com/community/gdsc/leads)
+- [Microsoft](https://studentambassadors.microsoft.com)    
+- [Github](https://education.github.com/experts)
+
