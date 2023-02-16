@@ -32,6 +32,7 @@ A curated list of resources for students in the department for learning extra cu
 ## Machine Learning
 - [Machine Learning For Beginners](https://github.com/microsoft/ML-For-Beginners)
 - [Big Data and Machine Learning](https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/)
+- [Tensorflow ML Education](https://www.tensorflow.org/resources/learn-ml)
 
 ## <a name="S"> </a>S  
 ## Student Ambassador Roles
@@ -40,4 +41,4 @@ A curated list of resources for students in the department for learning extra cu
 - [Microsoft](https://studentambassadors.microsoft.com)    
 - [Github](https://education.github.com/experts)    
 - [GitKraken](https://docs.google.com/forms/d/e/1FAIpQLScs6sPY7uXaqvCfXnsgWEInEJstmtFIgbAex2-4jB7VOHJDug/viewform)
-
+- [LinkedIn Learning Champion](https://learning.linkedin.com/customer/linkedin-learning-champion-program)
