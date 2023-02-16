@@ -38,5 +38,6 @@ A curated list of resources for students in the department for learning extra cu
 - [Notion](https://www.notion.so/Notion-Campus-Leaders-Program-5817b00cbaa244bca9e0e498804cbab4)
 - [Google](https://developers.google.com/community/gdsc/leads)
 - [Microsoft](https://studentambassadors.microsoft.com)    
-- [Github](https://education.github.com/experts)
+- [Github](https://education.github.com/experts)    
+- [GitKraken](https://docs.google.com/forms/d/e/1FAIpQLScs6sPY7uXaqvCfXnsgWEInEJstmtFIgbAex2-4jB7VOHJDug/viewform)
 
